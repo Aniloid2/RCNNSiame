@@ -24,7 +24,7 @@ The environment should look like this:
 
 HOME
 * Code
- * SortOUISIR.py
+ ** SortOUISIR.py
 * Data
  * all angles
 -'Project name'
