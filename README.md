@@ -23,12 +23,12 @@ SortOUISIR.py is used to generated the test dataset. First email gaitdb_admin@am
 The environment should look like this:
 
 HOME
-*Code
-    *SortOUISIR.py
-*Data
-    *all angles
-*'Project name'
-    *Code
+* Code
+    * SortOUISIR.py
+* Data
+    * all angles
+* 'Project name'
+    * Code
 ---RCNNSiame.py
 ---other models that youd like to test
 --data
