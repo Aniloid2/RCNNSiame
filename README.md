@@ -10,8 +10,9 @@ The field of gate recognition has been evolving rapidly thanks to the advent of 
 
 Fig2, Fig3: RCNNSaime was trained at 0°,30° and tested at 15°,45° degrees hence showing the performance of ±15°. Left a network with 7 million parameters. Right a network with 120 million parameters.
 
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Screenshot](figure1.png)  |  ![Screenshot](figure2.png)
+![Screenshot](figure1.png)  ![Screenshot](figure2.png)
 
 ## Conclusion
 
