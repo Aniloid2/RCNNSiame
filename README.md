@@ -29,10 +29,10 @@ HOME
     * all angles
 * 'Project name'
     * Code
----RCNNSiame.py
----other models that youd like to test
---data
---weights
+        * RCNNSiame.py
+        * other models that youd like to test
+    * data
+    * weights
 
 
 'Edit the SortOUISIR.py script to include your project name where 'Gate_sis' is present'
